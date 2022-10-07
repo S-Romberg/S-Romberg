@@ -27,7 +27,7 @@ jobs:
           # Options
           user: S-Romberg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: America/Denver
           plugin_isocalendar: yes
